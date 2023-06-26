@@ -1,0 +1,4 @@
+/.idea/
+/examples/UK-AMDS_Receiver/__pycache__/
+/examples/UK-AMDS_Receiver/*.py
+/python/__pycache__/
